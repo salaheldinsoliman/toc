@@ -10,7 +10,7 @@ nav_order: 4
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
 # Project Updates
-Whether the project updates are:
+Project updates are:
 - used by the TOC to determine the health of a project, including whether project should be moved to Dormant state
 - provided to the Governing Board on a monthly basis in the TOC Update
 - used to highlight interesting updates to the Governing Board about the projects
