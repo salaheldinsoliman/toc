@@ -22,7 +22,6 @@ In addition, FireFly continues to power many use cases in the digital assets com
   - Interoperability was tested between 38 different banks across chains running Besu, Fabric, and Corda.
   - Networks included 7 simulated CBDC networks, a foreign exchange network, a digital asset network, and a simulated CLS application, representing a mix of digital and traditional networks.
 
-
 Community members have given talks featuring Hyperledger FireFly at a number of events including:
 
 - Consensus 2024 where Hyperledger FireFly members presented at the Hyperledger booth
